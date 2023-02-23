@@ -1,6 +1,6 @@
 HOST = '127.0.0.1'
 PORT = '3306'
-DATABASE = 'flask1'
+DATABASE = 'cov_info'
 USERNAME = 'root'
 PASSWORD = 'admin'
 

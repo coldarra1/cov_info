@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bd991f67-611d-44a3-b152-f484473851ee" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +43,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Users/59493/PycharmProjects/cov_info&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -81,7 +84,10 @@
       <workItem from="1677050905611" duration="1009000" />
       <workItem from="1677051936379" duration="237000" />
       <workItem from="1677052276693" duration="243000" />
-      <workItem from="1677053332998" duration="543000" />
+      <workItem from="1677053332998" duration="1372000" />
+      <workItem from="1677054837328" duration="717000" />
+      <workItem from="1677132600191" duration="20000" />
+      <workItem from="1677139148597" duration="39000" />
     </task>
     <servers />
   </component>
